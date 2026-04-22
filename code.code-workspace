@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../.venvsussanto"
+		}
+	],
+	"settings": {
+		"window.restoreWindows": "all",
+    	"workbench.editor.restoreViewState": true
+	}
+
+
+}
